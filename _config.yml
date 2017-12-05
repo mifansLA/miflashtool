@@ -23,7 +23,7 @@ baseurl:"/"
 url: "https://miflashtool.knoacc.org"
 twitter_username: mifans_lamongan
 github_username: mifansla
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: plum
 
 # Build settings
 markdown: kramdown
@@ -50,7 +50,7 @@ plugins:
 
 author:
   name   : "Mifans LA"
-  avatar : "https://mi.knoac.org/img/logonew.jpg"
+  avatar : "https://i0.wp.com/mi.knoac.org/img/logonew.jpg?resize=110,110"
   bio    : "we are amazing persons."
   email  : # optional
   uri    : "https://mi.knoacc.org"
