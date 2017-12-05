@@ -50,7 +50,7 @@ plugins:
 
 author:
   name   : "Mifans LA"
-  avatar : https;//mi.knoac.org/img/logonew.jpg #"/assets/images/bio-photo.jpg"
+  avatar : "https://mi.knoac.org/img/logonew.jpg"
   bio    : "we are amazing persons."
   email  : # optional
   uri    : "https://mi.knoacc.org"
