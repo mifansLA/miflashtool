@@ -60,6 +60,21 @@ google_site_verification : "KYQFq-wZMFvxDMR5G5rak58D-IwrgM8B_CuGS0To5AU"
 bing_site_verification   : "DA3D4C0368D7AE1105218F7F5B5BD6AC"
 alexa_site_verification  : "9vuxp7uDTuDQssajccQrFy1UnTQ"
 
+# Analytics
+analytics:
+  provider               : "google-universal"
+  google:
+    tracking_id          : "UA-43841292-2"
+#Ads
+ads:
+  provider               : "adsense"
+  adsense:
+    pub_id               : "ca-pub-8526606076277673"
+    fluid1               : "4140744311"
+    fluid2               : "8902490138"
+    auto1                : "8128278337"
+    auto2                : "3371390739"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
