@@ -46,7 +46,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-remote-theme
+  - jekyll-include-cache
 
 author:
   name   : "Mifans LA"
